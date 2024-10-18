@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12476354"
+    target: "cloudripper_debug_locking"
+    source_file: "exynos-pcie-iommu.ko"
+  }
+  dest_file: "24Q4-12476354/debug_locking/exynos-pcie-iommu.ko"
+  version: "12476354"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/pantah-kernels/5.10"
+}
