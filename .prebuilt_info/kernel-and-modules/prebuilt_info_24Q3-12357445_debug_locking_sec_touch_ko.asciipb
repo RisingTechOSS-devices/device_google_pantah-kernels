@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12357445"
+    target: "cloudripper_debug_locking"
+    source_file: "sec_touch.ko"
+  }
+  dest_file: "24Q3-12357445/debug_locking/sec_touch.ko"
+  version: "12357445"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/pantah-kernels/5.10"
+}

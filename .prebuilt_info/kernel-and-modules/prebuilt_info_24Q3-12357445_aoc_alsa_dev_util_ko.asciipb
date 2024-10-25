@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12357445"
+    target: "cloudripper"
+    source_file: "aoc_alsa_dev_util.ko"
+  }
+  dest_file: "24Q3-12357445/aoc_alsa_dev_util.ko"
+  version: "12357445"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/pantah-kernels/5.10"
+}
