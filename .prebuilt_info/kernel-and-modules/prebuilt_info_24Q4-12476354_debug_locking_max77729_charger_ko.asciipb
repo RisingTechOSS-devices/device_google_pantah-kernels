@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12476354"
+    target: "cloudripper_debug_locking"
+    source_file: "max77729_charger.ko"
+  }
+  dest_file: "24Q4-12476354/debug_locking/max77729_charger.ko"
+  version: "12476354"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/pantah-kernels/5.10"
+}
